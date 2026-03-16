@@ -24,9 +24,10 @@ public class Addition
 {
    public static int Add(int a, int b)
    {
-       return a + b;
+       return 0;
    }
 }
+<<<<<<< HEAD
 =======
 //Esta clase implementa la operación resta
 public class Resta
@@ -37,3 +38,14 @@ public class Resta
    }
 }
 >>>>>>> fernanda-resta
+=======
+
+// Esta clase implementa la operación <division>
+public class Division
+{
+   public static double Divide(int a, int b)
+   {
+       return (double)a / b;
+   }
+}
+>>>>>>> cd773adbf3d2a76041c751ac7576e9aee9a82203
