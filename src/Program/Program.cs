@@ -27,7 +27,8 @@ public class Addition
    }
 }
 
-public class Divide
+// Esta clase implementa la operación <division>
+public class division
 {
    public static double Divide(int a, int b)
    {
