@@ -8,6 +8,7 @@
         Console.WriteLine(Division.Dividir(7, 8));
     }
 }
+<<<<<<< HEAD
 // Esta clase implementa la operación <nombre-operación>
 public class Multiplication
 {
@@ -26,3 +27,13 @@ public class Addition
        return a + b;
    }
 }
+=======
+//Esta clase implementa la operación resta
+public class Resta
+{
+   public static int Restar(int a, int b)
+   {
+       return a - b;
+   }
+}
+>>>>>>> fernanda-resta
