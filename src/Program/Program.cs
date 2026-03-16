@@ -10,9 +10,9 @@
 }
 
 // Esta clase implementa la operación <suma>
-public class Addition
+public class Suma
 {
-   public static int Add(int a, int b)
+   public static int Sumar(int a, int b)
    {
        return 0;
    }
