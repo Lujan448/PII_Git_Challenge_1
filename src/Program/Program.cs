@@ -13,7 +13,7 @@ public class Resta
 {
    public static int Restar(int a, int b)
    {
-       return 0;
+       return a - b; 
    }
 }
 <<<<<<< Updated upstream
