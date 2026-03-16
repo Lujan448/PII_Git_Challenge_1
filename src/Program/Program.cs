@@ -13,6 +13,12 @@ public class Resta
 {
    public static int Restar(int a, int b)
    {
-       return a - b;
+       return 0;
    }
 }
+<<<<<<< Updated upstream
+=======
+
+
+
+>>>>>>> Stashed changes
